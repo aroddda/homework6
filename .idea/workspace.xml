@@ -2,12 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e452ce1f-7d2e-45a9-adec-c47317b1b3ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework5/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Homework5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework5/Homework5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework5/out/production/Homework5/edu/dmacc/codedsm/hw5/Calculator.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Homework5/src/edu/dmacc/codedsm/hw5/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../development.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/homework6/StringCombiner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/homework6/edu/dmacc/codedsm/hw6/StrringCombiner.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/StringCombiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/hw6/StringCombiner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/hw6/StrringCombiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab4/edu/dmacc/codedsm/lab4/methodorator.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lab4/src/edu/dmacc/codedsm/lab4/methodorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/hw6/StrringCombiner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            <state relative-caret-position="355">
+              <caret line="24" column="7" selection-end-line="24" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,7 +72,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -88,7 +120,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551068365130" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551070215833" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,8 +204,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/hw6/StrringCombiner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        <state relative-caret-position="355">
+          <caret line="24" column="7" selection-end-line="24" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
